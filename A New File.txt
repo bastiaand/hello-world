@@ -1,0 +1,2 @@
+We created this file to show what happens when a file
+is put into a directory structure managed by GIT.
